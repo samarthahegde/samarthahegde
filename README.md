@@ -19,3 +19,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/samarthahegde/samarthahegde/output/snake.svg" alt="Snake animation" />
+
+###
