@@ -24,7 +24,6 @@
 
 ###
 
-<div align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-samartha-hegde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samartha-hegde/)](https://www.linkedin.com/in/samartha-hegde/)
 [![Gmail Badge](https://img.shields.io/badge/-samhegade123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samhegade123@gmail.com)](mailto:samhegade123@gmail.com)
-</div>
