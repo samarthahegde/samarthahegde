@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<div align="center">
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a Software Engineer at Amagi Media Labs. 
+I'm a Software Engineer at Amagi Media Labs.
 
 </div>
-###
+
 
 <div align="center">
   <img height="200" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"  />
