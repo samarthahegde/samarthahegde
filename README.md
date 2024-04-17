@@ -1,7 +1,8 @@
 <div align="center">
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a Software Engineer at Amagi Media Labs. <img src="https://www.amagi.com/hubfs/amagi-logo-resized.svg" alt="Amagi Media Labs Logo" width="100">
+I'm a Software Engineer at 
+<img src="https://www.amagi.com/hubfs/amagi-logo-resized.svg" alt="Amagi Media Labs Logo" width="100">
 
 </div>
 
